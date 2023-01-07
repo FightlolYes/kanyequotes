@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+button {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+}
+
+@media (max-width: 1200px) {
+    img {
+        height: 80%;
+        width: 80%;
+    }
+
+    body {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 50%x;
+        padding-top: 20px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
