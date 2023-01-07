@@ -14,3 +14,4 @@ function fetchQuote () {
 fetchQuote()
 
 $(document).ready(fetchQuote);
+$("button").click(fetchQuote)
